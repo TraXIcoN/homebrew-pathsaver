@@ -1,8 +1,8 @@
 class Pathsaver < Formula
   desc "A brew package for saving directory paths"
   homepage "https://github.com/TraXIcoN/pathsaver"
-  url "https://github.com/TraXIcoN/pathsaver/archive/refs/tags/v1.2.tar.gz"
-  sha256 "db1391bf91e21f6f62ca3bd4fffc757c50984a59d96b766b5f294f105042049a"
+  url "https://github.com/TraXIcoN/pathsaver/archive/refs/tags/v1.3.tar.gz"
+  sha256 "6c79ea15632794cc1e43c7c6370f4e7d67960eb28b9c6a829f6263185f4bc5ec"
   license "MIT"
 
   depends_on "python-argcomplete" => :python
